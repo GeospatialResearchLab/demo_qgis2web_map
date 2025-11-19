@@ -15,8 +15,7 @@ The workflow used here:
 Anyone can adapt this workflow for their own community mapping or public-engagement projects.
 
 ## Data Source
-Urban Forestry Street Trees dataset from **OpenDataDC**:  
-https://opendata.dc.gov
+[Urban Forestry Street Trees dataset](https://arcg.is/1Lfn8q) from **OpenDataDC**
 
 ## Live Map
 [https://geospatialresearchlab.github.io/demo_qgis2web_map/#11/38.8939/-77.0145](https://geospatialresearchlab.github.io/demo_qgis2web_map/#11/38.8939/-77.0145)
