@@ -19,4 +19,4 @@ Urban Forestry Street Trees dataset from **OpenDataDC**:
 https://opendata.dc.gov
 
 ## Live Map
-(Insert your GitHub Pages URL here once published.)
+[https://geospatialresearchlab.github.io/demo_qgis2web_map/#11/38.8939/-77.0145](https://geospatialresearchlab.github.io/demo_qgis2web_map/#11/38.8939/-77.0145)
