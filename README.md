@@ -1,7 +1,7 @@
 # Heritage Cherry Trees in Washington, DC  
 ### Demo Map Created with the QGIS qgis2web Plugin
 
-This repository contains a simple interactive web map generated using the **qgis2web** plugin in **QGIS**. The map displays Washington, DC’s **Heritage Street Trees** that are identified as cherry species (*Prunus*). Heritage trees are defined by the District Department of Transportation (DDOT) Urban Forestry Division as trees measuring **100 inches or more in circumference** at diameter at breast height (DBH).
+This repository contains a simple interactive web map generated using the **qgis2web** plugin in **QGIS**. The map displays Washington, DC’s **Heritage Street Trees** that are identified as cherry species (*Prunus*). Heritage trees are defined by the District Department of Transportation (DDOT) Urban Forestry Division as trees with a diameter at breast height (DBH) measuring **100 inches or more in circumference**.
 
 The map was exported directly from QGIS as a **Leaflet** web map using qgis2web’s default settings. Symbol size reflects DBH using graduated marker sizes.
 
